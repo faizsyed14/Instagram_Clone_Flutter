@@ -1,4 +1,4 @@
-TikTok Clone - Reels and Feeds Logic
+# TikTok Clone - Reels and Feeds Logic
 This project is a TikTok Clone that implements core functionalities focused on viewing reels, following accounts, and seeing user feeds. Built with simplicity in mind, it demonstrates the core logic behind content consumption on social platforms similar to TikTok, without additional complex features.
 
 Features
